@@ -1,3 +1,3 @@
 {
-	"a":"https://raw.githubusercontent.com/bahamut322/picture_bed/main/pictures/a/a/toyotarogo.jpg"
+	"a":"https://raw.githubusercontent.com/bahamut322/picture_bed/main/pictures/a/a/R.jpg"
 }
