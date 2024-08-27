@@ -1,3 +1,4 @@
 {
-	"a":"https://raw.githubusercontent.com/bahamut322/picture_bed/main/pictures/a/a/R.jpg"
+	"picture1":"https://raw.githubusercontent.com/bahamut322/picture_bed/main/pictures/a/a/R.jpg",
+	"picture2":""
 }
