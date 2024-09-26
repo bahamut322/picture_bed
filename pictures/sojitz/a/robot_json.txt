@@ -1,4 +1,4 @@
 {
-	"picture1":"https://raw.githubusercontent.com/bahamut322/picture_bed/main/pictures/sojitz/a/picture1.jpg",
-	"picture2":"https://raw.githubusercontent.com/bahamut322/picture_bed/main/pictures/sojitz/a/picture1.jpg"
+	"picture1":"https://raw.githubusercontent.com/bahamut322/picture_bed/refs/heads/main/pictures/sojitz/a/gray_cube_1.png",
+	"picture2":"https://raw.githubusercontent.com/bahamut322/picture_bed/refs/heads/main/pictures/sojitz/a/gray_cube_1.png"
 }
